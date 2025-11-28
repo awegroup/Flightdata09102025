@@ -17,7 +17,7 @@ Instrumented V3 kite in flight. Photo by Pim Haanen, 9 October 2025.
 For this specific test, the 25 m² leading-edge inflatable V3 kite was flown with conservative operational settings and substantially overdimensioned KCU.
 The primary focus of the test was data acquisition and sound measurements rather than maximizing energy production.
 As a result, the power output during the flight was significantly lower than that of standard Kitepower operations.
-The main system parameters are listed in the following table, the kite, the suspended kite control unit (KCU) and the attached ram-air turbine for onboard power supply are shown in the following photos.
+The main system parameters are listed in the following table, the kite, the suspended kite control unit (KCU) are shown in the following photos.
 
 | **Kite**                     |           | **Tether**   |           | **KCU**         |           |
 |------------------------------|-----------|--------------|-----------|-----------------|-----------|
@@ -42,7 +42,7 @@ Because the commonly used larger kites develop larger aerodynamic forces, the ma
 - **Lidar Data**: Collected at a 1-minute resolution, acquired with a Windcube v2.
 
 ![](./media/cycle_1.png)
-*Data plotted for the 1st pumping cycle.*
+*Data plotted for the 2nd pumping cycle.*
 
 ## Terms and requests concerning using the data:
 The contents of this repository are published under a CC BY-NC 4.0 license: the data can be used as long as attribution is made to this repository. Nevertheless, if you pursue a publication that uses the data we request you to:
