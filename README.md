@@ -7,10 +7,10 @@ One of the objectives was to measure the flight deformation using digital image 
 The GPS location of the ground station was 54.126501°, -9.781143°. The pressure in the tubes of the LEI kite was 277 mbar.
 
 ![](./media/IMG_5967.JPG)
-Preparing the instrumented V3 kite for launch. Photo by Pim Haanen, 9 October 2025.
+*Preparing the instrumented V3 kite for launch. Photo by Pim Haanen, 9 October 2025.*
 
 ![](./media/IMG_6093.JPG)
-Instrumented V3 kite in flight. Photo by Pim Haanen, 9 October 2025.
+*Instrumented V3 kite in flight. Photo by Pim Haanen, 9 October 2025.*
 
 ## System configuration 
 
