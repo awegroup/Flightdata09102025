@@ -9,7 +9,7 @@ The GPS location of the ground station was 54.126501°, -9.781143°. The pressur
 ![](./media/IMG_5967.JPG)
 *Preparing the instrumented V3 kite for launch. Photo by Pim Haanen, 9 October 2025.*
 
-![](./media/IMG_6093.JPG)
+![](./media/instrumented_V3_in_flight.JPG)
 *Instrumented V3 kite in flight. Photo by Pim Haanen, 9 October 2025.*
 
 ## System configuration 
