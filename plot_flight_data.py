@@ -165,9 +165,9 @@ def ensure_csv_file(filename):
 
 
 # Ensure the CSV file is available
-ensure_csv_file("log_2025-10-09_58-33-00")
+ensure_csv_file("DA_2017-03-30_FL01_11-30-29_12-03-06")
 # Load flight data
-df = pd.read_csv("log_2025-10-09_58-33-00.csv")
+df = pd.read_csv("DA_2017-03-30_FL01_11-30-29_12-03-06.csv")
 
 flight_data = df[df["kite_height"] > 20]
 
