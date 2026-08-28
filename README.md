@@ -143,4 +143,4 @@ This dataset is licensed under the [![License: CC BY-NC 4.0](https://img.shields
 
 ## Acknowledgements
 
-This project MERIDIONAL has received funding from the European Union’s Horizon Europe research and innovation programme under grant agreement No [101084216](https://doi.org/10.3030/101084216). The opinions expressed in this document reflect only the author’s view and reflects in no way the European Commission’s opinions. The European Commission is not responsible for any use that may be made of the information it contains.
+This work has been supported by the MERIDIONAL project, which receives funding from the European Union’s Horizon Europe Programme under the grant agreement no. [101084216](https://doi.org/10.3030/101084216). The opinions expressed in this document reflect only the author’s view and reflects in no way the European Commission’s opinions. The European Commission is not responsible for any use that may be made of the information it contains.
